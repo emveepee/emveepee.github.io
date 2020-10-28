@@ -1,0 +1,39 @@
+<keymap>
+	<global>
+		<remote>
+			<red>Red</red>
+			<green>Green</green>
+			<yellow>Yellow</yellow>
+			<blue>Blue</blue>
+			<guide>noop</guide>
+			<title>noop</title>
+			<recordedtv>noop</recordedtv>
+			<mytv>noop</mytv>
+			<myvideo>noop</myvideo>
+			<mymusic>noop</mymusic>
+			<mypictures>noop</mypictures>
+			<livetv>noop</livetv>
+			<power>noop</power>		
+			<subtitle>NextSubtitle</subtitle>	
+			<star>AspectRatio</star>
+			<display>AspectRatio</display>
+		</remote>
+		<keyboard>
+			<numpadplus>noop</numpadplus>
+			<numpadminus>noop</numpadminus>
+			<b>noop</b>
+			<e>noop</e>
+			<h>noop</h>
+			<i>noop</i>
+			<j>noop</j>
+			<k>noop</k>
+			<s>noop</s>
+			<s mod="ctrl">Stop</s>
+			<!--f8>noop</f8-->
+			<!--f9>noop</f9-->
+		</keyboard>		
+	</global>
+	<window13001>
+		<!-- can be more specific to web client here -->
+	</window13001>
+</keymap>
